@@ -1,0 +1,84 @@
+
+table{
+    border-collapse: collapse;
+
+
+
+}
+td{
+    padding: 3px;
+    /*border: 1px solid black;*/
+    width: 500px;
+    vertical-align: top;
+
+}
+header{
+   /* margin-left: 100px; /*отыступ слева*/
+    /*margin-top: 50px;*/
+
+
+}
+body{
+    background-color: darkgreen;
+    padding: 135px;
+    color: #fff;
+
+}
+
+a:hover{
+    color: aqua;
+}
+
+
+.gallery1 li{
+    list-style-type: none;
+    display: inline;
+}
+
+
+
+.navig{
+    font-size: 2em; font-family: "Open Sans", sans-serif;
+    /*background: rgba(0,0,0,0.65);*/
+    color: #fff;
+    padding: 0px 35px 1px 10px;
+    border-radius: 11px;
+    text-align: center;
+    text-decoration: none;
+}
+.navigacija{
+    display: inline;
+}
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    padding: 10px 10px 10px 10px;
+
+
+}
+.A{
+    background-color: black;
+}
+
+div.gallery:hover {
+    border: 5px solid #777;
+
+}
+
+div.gallery img {
+
+    height: 200px;
+    width: 200px;
+
+
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+p{
+
+}
+
